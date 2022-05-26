@@ -1,0 +1,46 @@
+Machete
+
+Operadores Logicos
+
+== Es igual
+!= Es distinto
+> Es mayor
+< Es menor
+& and
+|| or
+
+Herramientas
+
+//comentario javascript se comenta con //
+<!-- comentario --> comentar en html
+
+#valor hash se refiere a un ID
+
+.valor el punto se refiere a una clase (class)
+
+Traer valor por un id
+
+Javascript
+
+document.getElementById(“elId”).value
+
+Jquery
+
+(“#elId”).val() en “#elId” agregamos el # para saber q nos referimos a un id
+
+Iniciar Jquery
+Dentro de las etiquertas <script> agregamos el siguiente codigo
+
+$(document).ready(function () {
+
+//codigo jquery
+
+});
+
+Agregar codigo css a un elemento
+
+$(”#elId”).css('color', 'red');
+
+Mas de un css
+
+$(”#elId”).css({ 'color': 'red', 'font-size': '150%' });
