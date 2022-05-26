@@ -44,3 +44,14 @@ $(”#elId”).css('color', 'red');
 Mas de un css
 
 $(”#elId”).css({ 'color': 'red', 'font-size': '150%' });
+
+
+jquery llamar al hacer click
+
+     $("#acaelid").click(
+                        function () {
+                        
+                           console.log($("#acaelid").val());
+                        }
+                );  
+
