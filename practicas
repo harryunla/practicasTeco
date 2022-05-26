@@ -1,0 +1,11 @@
+1)
+Usando los botones con id (jquery o javascript)
+colores y colores2 al hacer click cambiar el color de la fuente de la tabla que no tiene id.
+
+2)
+usando el los inputs numeroUno,numeroDos,summar y resultado
+
+generar multiplicacion de numeroUno y numeroDos y mostrarlo en el input resultado al hacer click en el boton sumar
+
+3) 
+Al hacer click en el boton otroBoton mostrar un mensaje con el resultado del boton sumar
